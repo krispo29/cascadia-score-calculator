@@ -296,7 +296,7 @@ export default function App() {
                 )}
             </div>
              <footer className="text-center mt-12 text-gray-500 text-sm">
-                <p>สร้างโดย AI สำหรับคนรักบอร์ดเกม</p>
+             
             </footer>
         </div>
     );
